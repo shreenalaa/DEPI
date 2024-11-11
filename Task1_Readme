@@ -1,0 +1,24 @@
+
+---
+
+# Python Practice Notebook
+
+This notebook provides a series of Python exercises focused on control flow, patterns, and interactive problem-solving. Perfect for beginners to practice and improve their programming skills.
+
+## Contents
+
+1. **Finding Numbers with Specific Divisibility**: Lists numbers between 1500 and 2700 divisible by both 7 and 5.
+2. **Number Guessing Game**: A fun guessing game where the user tries to guess a number between 1 and 9.
+3. **Selective Printing**: Prints numbers from 0 to 6, skipping 3 and 6.
+4. **Pattern Printing**: Creates a pyramid-like pattern using nested loops.
+
+## How to Use
+
+1. Clone or download this repository.
+2. Open `Task1.ipynb` in Jupyter Notebook or Jupyter Lab.
+3. Execute each cell to try out the code and solve each exercise.
+
+## Enjoy Practicing Python! 🎉
+
+---
+
